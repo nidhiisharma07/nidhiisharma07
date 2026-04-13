@@ -1,25 +1,4 @@
 
-<!---
-nidhiisharma07/nidhiisharma07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 👋 Hi, I'm Nidhi Sharma
-
-💻 Full Stack Developer | 🤖 Machine Learning Enthusiast
-🎯 Passionate about building real-world applications that solve problems
-<!-- ======================= HEADER ======================= -->
-
-<h1 align="center">Hi 👋, I'm Nidhi Sharma</h1>
-<h3 align="center">💻 Full Stack Developer | 🤖 ML Enthusiast | 🚀 Future Software Engineer</h3>
-
-<!-- Animated Typing -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F72585&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Real+World+Projects;Open+to+Opportunities" />
-</p>
-
----
-
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">Hi 👋, I'm Nidhi Sharma</h1>
