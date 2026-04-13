@@ -70,10 +70,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhiisharma07&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username\&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=nidhiisharma07&theme=radical)
 ---
 
 ## 🏆 Achievements
