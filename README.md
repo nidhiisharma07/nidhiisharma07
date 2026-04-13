@@ -20,40 +20,31 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+<!-- ======================= HEADER ======================= -->
+
+<h1 align="center">Hi 👋, I'm Nidhi Sharma</h1>
+<h3 align="center">💻 Full Stack Developer | 🤖 Machine Learning Enthusiast | 🚀 Future Software Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F72585&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Real+World+Projects;Open+to+Opportunities" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 * 🎓 Computer Science Student
-* 🏥 Building **AI Disease Prediction System**
-* 🌱 Learning **System Design + Advanced ML**
-* 💡 Interested in **Healthcare Tech & AI**
-* ⚡ Fun fact: I love turning ideas into real apps
+* 🏥 Building an **AI-powered Disease Prediction System**
+* 🌱 Currently learning **System Design & Advanced Machine Learning**
+* 💡 Passionate about **Healthcare Tech & Real-world Problem Solving**
+* ⚡ I love transforming ideas into scalable applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🤖 Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,angular,nodejs,express,mongodb,mysql" />
 </p>
 
 ---
@@ -62,8 +53,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 🏥 AI Disease Prediction System
 
-🚀 Predict diseases using ML (Naive Bayes & SVM)
-📊 Takes symptoms, age & history as input
+🚀 Predicts diseases using **Naive Bayes & SVM**
+📊 Uses symptoms, age, and medical history
 🌐 Full Stack + ML Integration
 
 🔗 https://github.com/nidhiisharma07/disease-prediction
@@ -72,9 +63,9 @@ You can click the Preview link to take a look at your changes.
 
 ### 🌐 Portfolio Website
 
-✨ Personal developer portfolio
-🎨 Clean UI + Animations
-📩 Contact form integration
+✨ Modern developer portfolio with animations
+📱 Fully responsive UI
+📩 Contact form with Email integration
 
 🔗 https://nidhii-zasm.vercel.app/
 
@@ -83,12 +74,12 @@ You can click the Preview link to take a look at your changes.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhiisharma07&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=nidhiisharma07&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhiisharma07&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=nidhiisharma07&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiisharma07&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiisharma07&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -97,29 +88,37 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nidhiisharma07/nidhiisharma07/output/github-contribution-grid-snake-dark.svg" />
-
 </p>
+
 ---
 
 ## 🏆 Achievements
 
-* 🚀 Built ML + Web integrated system
-* 💡 Strong DSA & backend skills
-* 🧪 Hands-on with APIs & databases
+* 🚀 Developed real-world **ML + Full Stack system**
+* 💡 Strong foundation in **DSA & Backend Development**
+* 🧪 Experience with **REST APIs & Database Design**
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/nidhi-sharma-40247b272/)">
+  <a href="https://www.linkedin.com/in/nidhi-sharma-40247b272/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-sharmanidhi97083@gmail.com">
+  <a href="mailto:sharmanidhi97083@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-⭐ *"Building technology that actually helps people"*
+## 💡 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nidhiisharma07&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
+
+---
+
+⭐ *"Building technology that solves real-world problems"*
